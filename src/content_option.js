@@ -21,8 +21,10 @@ const dataabout = {
     aboutme: <div>Welcome to my profile!<br/><br/>
     Hi there! I'm Kostiantyn Hrynchuk, a passionate web and blockchain developer from Azerbaijan. With 5+ years of experience and a drive to stay up-to-date with the latest trends and technologies, I'm your go-to for all of your blockchain and web development needs!
     
+    
     <br/><br/>I specialize in smart contract development, testing, and deployment; developing De-Fi apps like pancakeswap and uniswap; developing NFT marketplaces; developing IDO launchpads; tokenizing real assets, media, and social management; and Frontend JavaScript Frameworks (React, Next, Typescript, Angular, Vue).
     <br/><br/>
+    
     My strongest skills are
     <br/>☑️Smart contract development, testing, and deployment
     <br/>☑️Developing De-Fi apps like pancakeswap and uniswap
