@@ -17,24 +17,10 @@ export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">
       <ul>
-        {socialprofils.upwork && (
-          <li>
-            <a href={socialprofils.upwork} target='_blank'>
-              <img src={UpworkIcon} width={20} className='text-black' />
-            </a>
-          </li>
-        )}
         {socialprofils.github && (
           <li>
             <a href={socialprofils.github} target='_blank'>
               <FaGithub />
-            </a>
-          </li>
-        )}
-        {socialprofils.skype && (
-          <li>
-            <a href={socialprofils.skype} target='_blank'>
-              <FaSkype />
             </a>
           </li>
         )}
