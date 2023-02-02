@@ -13,31 +13,14 @@ import {
   FaTelegram,
   FaNetworkWired,
 } from "react-icons/fa";
-import { socialprofils } from "../../content_option";
-import UpworkIcon from '../../assets/images/download.png';
-import FreelancerIcon from '../../assets/images/freelancer.jpg';
 export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">
       <ul>
-        {socialprofils.twitter && (
-          <li>
-            <a href={socialprofils.twitter} target='_blank'>
-              <FaTwitter />
-            </a>
-          </li>
-        )}
         {socialprofils.upwork && (
           <li>
             <a href={socialprofils.upwork} target='_blank'>
               <img src={UpworkIcon} width={20} className='text-black' />
-            </a>
-          </li>
-        )}
-        {socialprofils.freelancer && (
-          <li>
-            <a href={socialprofils.freelancer} target='_blank'>
-              <img src={FreelancerIcon} width={18} className='text-black' />
             </a>
           </li>
         )}
