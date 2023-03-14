@@ -43,7 +43,6 @@ const dataabout = {
     <br/>☑️ Blockchain node setup
     <br/>☑️ Blockchain Development and Contract Deployment to different blockchain networks like Eth, Bsc, Hydra and so on.
     <br/>☑️Frontend Javascript Frameworks(React, Next, Typescript, Angular, Vue)
-    <br/>☑️Backend development (PHP/Laravel, NodeJs/ExpressJs, Django, Flask)
     
     <br/><br/>From requirement analysis, architect design, db modeling to frontend/backend coding and maintenance, I provide 100% reliable service.
     <br/>- Guarantees Fast progress and best quality Constant report and instant reply Cooperative idea support and polite after service
